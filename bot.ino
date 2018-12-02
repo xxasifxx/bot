@@ -36,8 +36,8 @@ unsigned char pwmval_right_init = 10;     //Right motor Duty Cycle Adjust, adjus
 unsigned char right_pwm = 1;              //Right motor PWM switch, turn on when 1 value
 unsigned char left_pwm  = 1;              //left motor PWM switch, turn on when 1 value
 
-const char* ssid = "OnePlus 6T-315c";
-const char* password = "saqeeb98";
+const char* ssid = "";
+const char* password = "";
 
 
 void forward(void)               //Car forward control function
